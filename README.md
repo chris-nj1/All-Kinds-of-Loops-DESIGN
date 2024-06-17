@@ -1,10 +1,10 @@
-# ICS2O Unit #X-YY
+# ICS2O Unit All-Kinds-of-Loops-DESIGN
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/chris-nj1/All-Kinds-of-Loops-DESIGN/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/chris-nj1/All-Kinds-of-Loops-DESIGN/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/chris-nj1/All-Kinds-of-Loops-DESIGN/workflows/Deploy%20Pages/badge.svg)](https://github.com/chris-nj1/All-Kinds-of-Loops-DESIGN/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://chris-nj1.github.io/All-Kinds-of-Loops-DESIGN](https://chris-nj1.github.io/All-Kinds-of-Loops-DESIGN)
 
 ---
 
